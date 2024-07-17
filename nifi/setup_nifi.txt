@@ -1,0 +1,4 @@
+sudo chown -R hadoopuser:hadoopuser /opt/nifi
+
+
+sudo chown -R hadoopuser:hadoopuser /usr/local/spark/work
